@@ -1,2 +1,0 @@
-# fbexam
-Created with CodeSandbox
